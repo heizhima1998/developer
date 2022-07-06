@@ -1,4 +1,6 @@
-# Development Support
+# Technical Support
+# 技术支持
+
 If you have any questions, you can leave a message or send a question to our email address.
 
 We will answer for you at the first time.
