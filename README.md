@@ -1,6 +1,8 @@
 # Movie Poster Technical Support
 # 美剧海报应用技术支持
 
+[Privacy Agreement] (https://heizhima1998.github.io/xieyi/)
+
 Privacy Agreement：https://heizhima1998.github.io/xieyi/
 
 If you have any questions, you can leave a message or send a question to our email address.
