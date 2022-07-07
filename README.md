@@ -1,6 +1,7 @@
-# APP Technical Support
-# 应用技术支持
+# Movie Poster Technical Support
+# 美剧海报应用技术支持
 
+隐私政策：https://heizhima1998.github.io/xieyi/
 If you have any questions, you can leave a message or send a question to our email address.
 
 We will answer for you at the first time.
