@@ -1,5 +1,5 @@
 # Movie Poster Technical Support
-# 美剧海报应用技术支持
+# 美剧电视应用技术支持
 
 Privacy Agreement：https://heizhima1998.github.io/xieyi/
 
